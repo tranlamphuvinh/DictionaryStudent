@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>QuanLiSinhVien_HashMapDictionary</id>
+    <version>1.0.0</version>
+    <authors>QuanLiSinhVien_HashMapDictionary</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Coding\C#\Console App\Object Oriented Programming\QuanLiSinhVien_HashMapDictionary\QuanLiSinhVien_HashMapDictionary\bin\Debug\net7.0\QuanLiSinhVien_HashMapDictionary.runtimeconfig.json" target="lib\net7.0\QuanLiSinhVien_HashMapDictionary.runtimeconfig.json" />
+    <file src="D:\Coding\C#\Console App\Object Oriented Programming\QuanLiSinhVien_HashMapDictionary\QuanLiSinhVien_HashMapDictionary\bin\Debug\net7.0\QuanLiSinhVien_HashMapDictionary.dll" target="lib\net7.0\QuanLiSinhVien_HashMapDictionary.dll" />
+  </files>
+</package>

@@ -1,0 +1,5 @@
+D:\Coding\C#\Console App\Object Oriented Programming\QuanLiSinhVien_HashMapDictionary\QuanLiSinhVien_HashMapDictionary\bin\Release\net7.0\publish\QuanLiSinhVien_HashMapDictionary.exe
+D:\Coding\C#\Console App\Object Oriented Programming\QuanLiSinhVien_HashMapDictionary\QuanLiSinhVien_HashMapDictionary\bin\Release\net7.0\publish\QuanLiSinhVien_HashMapDictionary.dll
+D:\Coding\C#\Console App\Object Oriented Programming\QuanLiSinhVien_HashMapDictionary\QuanLiSinhVien_HashMapDictionary\bin\Release\net7.0\publish\QuanLiSinhVien_HashMapDictionary.deps.json
+D:\Coding\C#\Console App\Object Oriented Programming\QuanLiSinhVien_HashMapDictionary\QuanLiSinhVien_HashMapDictionary\bin\Release\net7.0\publish\QuanLiSinhVien_HashMapDictionary.runtimeconfig.json
+D:\Coding\C#\Console App\Object Oriented Programming\QuanLiSinhVien_HashMapDictionary\QuanLiSinhVien_HashMapDictionary\bin\Release\net7.0\publish\QuanLiSinhVien_HashMapDictionary.pdb
